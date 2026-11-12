@@ -1,4 +1,4 @@
-# DECFALL – Detector de Quedas Ciberfísico
+    # DECFALL – Detector de Quedas Ciberfísico
 
 Sistema ciberfísico baseado em **ESP32** que detecta possíveis quedas de uma pessoa (ex.: idosos) usando um acelerômetro, dispara alarme sonoro/visual e avisa um responsável pelo **Telegram**. Um painel web servido pelo próprio ESP32 permite acompanhar a aceleração em tempo real, ver o histórico de quedas e os logs.
 
