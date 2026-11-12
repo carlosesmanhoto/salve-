@@ -1,4 +1,4 @@
-#include <WiFi.h>
+"#include <WiFi.h>
 #include <WebServer.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
@@ -12,7 +12,7 @@
 #include "pagina.h"
 
 // Credenciais ficam em secrets.h (NAO versionado). Copie secrets.h.example -> secrets.h
-#include "secrets.h"
+#include "secrets.h"  
 
 #define SDA_PIN 21
 #define SCL_PIN 22
